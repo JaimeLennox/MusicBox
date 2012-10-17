@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/02/27 08:14:10.000.320,=U:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/02/27 08:14:29.000.587,V:\RAD Studio\Projects\Other\Music Box\fMusicBox.dfm=U:\My Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2012/02/27 08:14:29.000.587,V:\RAD Studio\Projects\Other\Music Box\fMusicBox.pas=U:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/02/27 08:14:35.000.799,V:\RAD Studio\Projects\Other\Music Box\MusicBox.dproj=U:\My Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2012/02/27 08:14:41.000.478,=V:\RAD Studio\Projects\Other\Music Box\Unit1.pas</Transaction>
+    <Transaction>2012/02/27 08:14:48.000.949,V:\RAD Studio\Projects\Other\Music Box\MusicBoxObjects.pas=V:\RAD Studio\Projects\Other\Music Box\Unit1.pas</Transaction>
+    <Transaction>2012/02/27 08:15:50.000.742,V:\RAD Studio\Projects\Other\Music Box\TMusicBox.pas=V:\RAD Studio\Projects\Other\Music Box\fMusicBox.pas</Transaction>
+    <Transaction>2012/02/27 08:15:50.000.742,V:\RAD Studio\Projects\Other\Music Box\TMusicBox.dfm=V:\RAD Studio\Projects\Other\Music Box\fMusicBox.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
